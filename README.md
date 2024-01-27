@@ -14,6 +14,7 @@ FER 2013 Google Dataset: Train the model on a diverse dataset containing facial 
 <b>Prerequisites</b>
 <br>
 Make sure you have the following dependencies installed:
+<br>
 TensorFlow<br>
 OpenCV <br>
 CV2 <br>
