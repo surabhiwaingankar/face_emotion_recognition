@@ -19,3 +19,5 @@ TensorFlow<br>
 OpenCV <br>
 CV2 <br>
 NumPy
+
+FER 2013 Google Dataset: https://www.kaggle.com/datasets/msambare/fer2013
